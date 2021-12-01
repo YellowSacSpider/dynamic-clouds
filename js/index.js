@@ -11,7 +11,7 @@ tag.textContent =
 const mainList = document.createElement("ul");
 const elements = ["Element1", "Element2", "Element3", "Element4"];
 
-const createElementList = (penesArr) => {
+const createElementList = (elementsArr) => {
     elementsArr.forEach((item) => {
         const elementLi = document.createElement("li");
         elementLi.textContent = item;
