@@ -1,0 +1,29 @@
+.button-1 {
+    background-color: green;
+    margin-left: 46%;
+    padding: 30px;
+    font-family: Verdana, Geneva, sans-serif;
+    border-radius: 30%;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.5s;
+}
+
+.button-1:hover {
+    background-color: blue;
+    cursor: pointer;
+    transform: rotate(360deg);
+}
+
+.message p {
+    background-color: lightcyan;
+    padding: 100px;
+    border: green;
+    border-style: solid;
+}
+
+.message ul {
+    background-color: lightblue;
+    padding: 100px;
+    border: green;
+    border-style: solid;
+}
