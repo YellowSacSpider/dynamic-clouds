@@ -19,6 +19,7 @@
     padding: 100px;
     border: green;
     border-style: solid;
+    transition: 0.3;
 }
 
 .message ul {
@@ -26,4 +27,5 @@
     padding: 100px;
     border: green;
     border-style: solid;
+    transition: 0.3;
 }
